@@ -61,6 +61,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.0)
   jeweler (~> 1.8.7)
+  rake
   rdoc (~> 3.12)
   rmagick (~> 2.13.2)
   rspec (~> 2.14.0)
