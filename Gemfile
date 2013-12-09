@@ -9,7 +9,6 @@ gem 'rmagick', '~> 2.13.2'
 
 
 gem 'rake'
-gem 'bundler'
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
