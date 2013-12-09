@@ -7,7 +7,6 @@ ruby '2.0.0'
 gem 'streamio-ffmpeg', '~> 1.0.0'
 gem 'rmagick', '~> 2.13.2'
 
-
 gem 'rake'
 
 # Add dependencies to develop your gem here.

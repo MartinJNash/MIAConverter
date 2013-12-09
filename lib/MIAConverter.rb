@@ -1,4 +1,4 @@
-require 'rmagick'
+require 'RMagick'
 require 'streamio-ffmpeg'
 
 module MIAConverter
