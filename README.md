@@ -1,6 +1,7 @@
 = MIAConverter
 
 ![Travis Status](https://api.travis-ci.org/MartinJNash/MIAConverter.png)
+![Gem Version](https://badge.fury.io/rb/MIAConverter.png)
 
 == Contributing to MIAConverter
  
